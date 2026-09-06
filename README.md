@@ -1,14 +1,14 @@
-## Hi, I'm Caroline 👋
-# I am a JMU senior studying Health Sciences.
+# Hi, I'm Caroline 👋
+## I am a JMU senior studying Health Sciences.
 
-# About me:
--🎓JMU student
--🩺Interested in healthcare and health policy
--🏔️Enjoy being active and going on hikes
--🌱Learning how to use GitHub and Markdown
--⚽Big soccer and Chelsea fan
+### About me:
+1. 🎓JMU student
+2. 🩺Interested in healthcare and health policy
+3. 🏔️Enjoy being active and going on hikes
+4. 🌱Learning how to use GitHub and Markdown
+5. ⚽Big soccer and Chelsea fan
 
-# Connect with me
+### Connect with me
 - Email: caroline.al.white@gmail.com
   
 <!--
