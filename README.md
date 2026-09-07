@@ -14,6 +14,13 @@
 ### Technical skills
 🎨 Canva • 📊 Microsoft Excel • 📄 Microsoft Word • 📽️ Microsoft PowerPoint • 📝 Google Docs • 🤖 AI Tools
 
+<img src="https://img.shields.io/badge/Canva-Experienced-blue" />
+<img src="https://img.shields.io/badge/Excel-Experienced-green" />
+<img src="https://img.shields.io/badge/Word-Experienced-blue" />
+<img src="https://img.shields.io/badge/PowerPoint-Experienced-orange" />
+<img src="https://img.shields.io/badge/GitHub-Learning-black" />
+<img src="https://img.shields.io/badge/Markdown-Learning-purple" />
+
 ### Connect with me
 - Email: caroline.al.white@gmail.com
 
