@@ -12,7 +12,7 @@
 5. ⚽Big soccer and Chelsea fan
 
 ### Technical skills
-🎨 Canva • 📊 Microsoft Excel • 📄 Microsoft Word • 📽️ Microsoft PowerPoint • 📝 Google Docs • 🖥️ GitHub • 🤖 AI Tools
+🎨 Canva • 📊 Microsoft Excel • 📄 Microsoft Word • 📽️ Microsoft PowerPoint • 📝 Google Docs • 🤖 AI Tools
 
 ### Connect with me
 - Email: caroline.al.white@gmail.com
