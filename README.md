@@ -17,7 +17,7 @@
 ### Connect with me
 - Email: caroline.al.white@gmail.com
 
-📸Snapshots of my life📸
+### 📸Snapshots of my life📸
 
   <img width="200" height="230" alt="0" src="https://github.com/user-attachments/assets/227d1165-4bbe-412f-9377-b5b262a9434e" />
 <img width="240" height="230" alt="0" src="https://github.com/user-attachments/assets/c9b4e627-c84e-401b-b923-de1a24f4ff2e" />
