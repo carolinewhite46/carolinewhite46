@@ -1,5 +1,5 @@
 # ✨Hi, my name is Caroline White ✨
-## I am a Health Sciences student at James Madison University with an interest in healthcare and health policy. I hope to pursue a career in epidemiology and making a positive impact on the people I work with.
+### I am a Health Sciences student at James Madison University with an interest in healthcare and health policy. I hope to pursue a career in epidemiology and making a positive impact on the people I work with.
 
 ### About me
 1. 🎓JMU student
