@@ -12,7 +12,6 @@
 5. ⚽Big soccer and Chelsea fan
 
 ### Technical skills
-🎨 Canva • 📊 Microsoft Excel • 📄 Microsoft Word • 📽️ Microsoft PowerPoint • 📝 Google Docs • 🤖 AI Tools
 
 <img src="https://img.shields.io/badge/Canva-Experienced-blue" />
 <img src="https://img.shields.io/badge/Excel-Experienced-green" />
