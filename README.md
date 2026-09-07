@@ -13,9 +13,10 @@
 
 ### Connect with me
 - Email: caroline.al.white@gmail.com
-  <img width="644" height="830" alt="0" src="https://github.com/user-attachments/assets/227d1165-4bbe-412f-9377-b5b262a9434e" />
-<img width="1107" height="830" alt="0" src="https://github.com/user-attachments/assets/c9b4e627-c84e-401b-b923-de1a24f4ff2e" />
-<img width="622" height="830" alt="0" src="https://github.com/user-attachments/assets/a9b80193-8163-4f58-9fa6-bdcb8b938393" />
+
+  <img width="220" height="830" alt="0" src="https://github.com/user-attachments/assets/227d1165-4bbe-412f-9377-b5b262a9434e" />
+<img width="220" height="830" alt="0" src="https://github.com/user-attachments/assets/c9b4e627-c84e-401b-b923-de1a24f4ff2e" />
+<img width="220" height="830" alt="0" src="https://github.com/user-attachments/assets/a9b80193-8163-4f58-9fa6-bdcb8b938393" />
 
 <!--
 **carolinewhite46/carolinewhite46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
